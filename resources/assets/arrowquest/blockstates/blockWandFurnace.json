@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "arrowquest:blockWandFurnace" },
+        "facing=south": { "model": "arrowquest:blockWandFurnace", "y": 180 },
+        "facing=west":  { "model": "arrowquest:blockWandFurnace", "y": 270 },
+        "facing=east":  { "model": "arrowquest:blockWandFurnace", "y": 90 }
+    }
+}

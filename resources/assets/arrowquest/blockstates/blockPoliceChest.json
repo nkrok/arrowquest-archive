@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "oak_planks" },
+        "facing=south": { "model": "oak_planks", "y": 180 },
+        "facing=west":  { "model": "oak_planks", "y": 270 },
+        "facing=east":  { "model": "oak_planks", "y": 90 }
+    }
+}

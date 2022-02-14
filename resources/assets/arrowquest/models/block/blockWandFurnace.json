@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "arrowquest:blocks/blockWandFurnaceTop",
+        "front": "arrowquest:blocks/blockWandFurnaceFrontOff",
+        "side": "arrowquest:blocks/blockWandFurnaceSideOff"
+    }
+}

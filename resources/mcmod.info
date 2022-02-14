@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arrowquest",
+  "name": "ArrowQuest",
+  "description": "A mod all about adventuring and becoming powerful.",
+  "version": "1.22",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["cm8check"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

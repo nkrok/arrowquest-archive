@@ -1,0 +1,195 @@
+# Blocks
+tile.blockSingleSpawner.name=ArrowQuest Spawner
+tile.blockDungeonChest.name=ArrowQuest Dungeon Chest
+tile.blockBigCraftingTable.name=Tier 2 Crafting Table
+tile.blockWandFurnace.name=Spellcaster's Furnace
+tile.blockOreFire.name=Fire Crystal Ore
+tile.blockOreWater.name=Water Crystal Ore
+tile.blockOreAir.name=Air Crystal Ore
+tile.blockOreEarth.name=Earth Crystal Ore
+tile.blockOreLife.name=Life Crystal Ore
+tile.blockPoliceChest.name=Trueforce Chest
+tile.blockFireChest.name=Exploding Chest
+tile.blockFinalDestinationTeleporter.name=Teleporter
+tile.blockFinalDestinationCheckpoint.name=Teleporter
+tile.blockFinalDestinationFinalCheckpoint.name=Teleporter
+tile.blockFinalDestinationReturn.name=Teleporter
+tile.blockStructureController.name=ArrowQuest Structure Controller
+tile.blockAirlockController.name=Airlock Controller
+tile.blockPoliceTeleporter.name=Teleporter
+
+# Items
+item.itemWand.name=Wand
+item.itemStaff1.name=Tier 1 Staff
+item.itemStaff2.name=Tier 2 Staff
+item.itemStaff3.name=Tier 3 Staff
+item.itemLongbow.name=Longbow
+item.itemMagicCrystal_0.name=Magic Crystal
+item.itemMagicCrystal_1.name=Fire Crystal
+item.itemMagicCrystal_2.name=Water Crystal
+item.itemMagicCrystal_3.name=Air Crystal
+item.itemMagicCrystal_4.name=Earth Crystal
+item.itemMagicCrystal_5.name=Life Crystal
+item.itemKingSword.name=Sword of Great Kings
+item.itemEnderSword.name=Ender Sword
+item.itemMedallion.name=Regeneration Medallion
+item.itemFireMedallion.name=Fire Resistance Medallion
+item.itemDefenseMedallion.name=Defense Medallion
+item.itemLootMedallion.name=Loot Medallion
+item.itemPoliceSabre.name=Energy Sabre
+item.itemPoliceGun.name=Energy Pistol
+item.itemTrueforceIngot.name=Trueforce Ingot
+item.itemHeavyDutyIngot.name=Heavy-Duty Ingot
+item.itemPoliceTeleporter.name=Dimensional Transporter
+item.itemExplosiveCrossbow.name=Explosive Crossbow
+item.itemFinalDestinationKey.name=???
+item.itemTheArrow.name=The Arrow
+item.itemCursedFeather.name=Cursed Feather
+item.itemDebugTool.name=Debug Tool
+
+item.itemBattleAxeWood.name=Wooden Battle Axe
+item.itemBattleAxeStone.name=Stone Battle Axe
+item.itemBattleAxeIron.name=Iron Battle Axe
+item.itemBattleAxeGold.name=Gold Battle Axe
+item.itemBattleAxeDiamond.name=Diamond Battle Axe
+
+item.itemLongswordWood.name=Wooden Longsword
+item.itemLongswordStone.name=Stone Longsword
+item.itemLongswordIron.name=Iron Longsword
+item.itemLongswordGold.name=Gold Longsword
+item.itemLongswordDiamond.name=Diamond Longsword
+
+item.itemHammerWood.name=Wooden Hammer
+item.itemHammerStone.name=Stone Hammer
+item.itemHammerIron.name=Iron Hammer
+item.itemHammerGold.name=Gold Hammer
+item.itemHammerDiamond.name=Diamond Hammer
+
+item.itemDaggerWood.name=Wooden Dagger
+item.itemDaggerStone.name=Stone Dagger
+item.itemDaggerIron.name=Iron Dagger
+item.itemDaggerGold.name=Gold Dagger
+item.itemDaggerDiamond.name=Diamond Dagger
+
+item.itemPoliceHelmet.name=Trueforce Uniform Helmet
+item.itemPoliceChestplate.name=Trueforce Uniform Chestplate
+item.itemPoliceLeggings.name=Trueforce Uniform Leggings
+item.itemPoliceBoots.name=Trueforce Uniform Boots
+
+item.itemTrueforceHelmet.name=Trueforce Helmet
+item.itemTrueforceChestplate.name=Trueforce Chestplate
+item.itemTrueforceLeggings.name=Trueforce Leggings
+item.itemTrueforceBoots.name=Trueforce Boots
+
+item.itemHeavyDutyHelmet.name=Heavy-Duty Helmet
+item.itemHeavyDutyChestplate.name=Heavy-Duty Chestplate
+item.itemHeavyDutyLeggings.name=Heavy-Duty Leggings
+item.itemHeavyDutyBoots.name=Heavy-Duty Boots
+
+item.itemEnergyHelmet.name=Energy Headwear
+item.itemEnergyChestplate.name=Energy Bodywear
+item.itemEnergyLeggings.name=Energy Legwear
+item.itemEnergyBoots.name=Energy Footwear
+
+item.itemObsidianHelmet.name=Obsidian Helmet
+item.itemObsidianChestplate.name=Obsidian Chestplate
+item.itemObsidianLeggings.name=Obsidian Leggings
+item.itemObsidianBoots.name=Obsidian Boots
+
+item.itemBroadAxe.name=Broad Axe
+item.itemDoubleSword.name=Double Sword
+item.itemExecutionerAxe.name=Executioner Axe
+item.itemFalchion.name=Falchion
+item.itemClub.name=Club
+item.itemSpikedClub.name=Spiked Club
+item.itemGlaive.name=Glaive
+item.itemGreatsword.name=Greatsword
+item.itemFidelitySword.name=Avec Fidélité
+item.itemSabre.name=Sabre
+item.itemScimitar.name=Scimitar
+
+item.itemSingingSword.name=Singing Sword
+item.itemSceptreOfAsmodeus.name=Sceptre of Asmodeus
+item.itemSceptreOfTorment.name=Sceptre of Revenge
+item.itemSoulStealer.name=Soul Harvester
+item.itemVampiresTooth.name=Vampire's Tooth
+item.itemMysteryMace.name=Mystery Mace
+item.itemThiefsDagger.name=Thief's Dagger
+item.itemEvilBlade.name=Evil's Blade
+item.itemAxeOfCorruption.name=Axe of Corruption
+item.itemXPSword.name=Sword of Brilliance
+item.itemBanisher.name=Banisher
+
+item.itemDemonBlade.name=Demon Blade
+item.itemDemonTrident.name=Demon Trident
+
+# Scrolls
+itemScroll_0.name=Blank Scroll
+itemScroll_1.name=Fireball
+itemScroll_2.name=Puddle
+itemScroll_3.name=Quake
+itemScroll_4.name=Leap I
+itemScroll_5.name=Leap II
+itemScroll_6.name=Leap III
+itemScroll_7.name=Self Heal I
+itemScroll_8.name=Self Heal II
+itemScroll_9.name=Self Heal III
+itemScroll_10.name=Heal Aura I
+itemScroll_11.name=Heal Aura II
+itemScroll_12.name=Heal Aura III
+itemScroll_13.name=Lightning
+itemScroll_14.name=Lava Puddle
+itemScroll_15.name=Megaburst
+itemScroll_16.name=Fireproof Aura
+itemScroll_17.name=Temporary Block
+itemScroll_18.name=Earthen Blitz
+itemScroll_19.name=Fire Beam
+itemScroll_20.name=Lightning Strike
+itemScroll_21.name=Explo-Fireball
+itemScroll_22.name=Explo-Tri-Fireball
+
+# Keys
+item.itemAQKey_0.name=Red Key
+item.itemAQKey_1.name=Yellow Key
+item.itemAQKey_2.name=Blue Key
+item.itemAQKey_3.name=Green Key
+item.itemAQKey_4.name=Purple Key
+
+# Entities
+entity.arrowquest.entityCastleSoldier.name=Human
+entity.arrowquest.entityCastleArcher.name=Human
+entity.arrowquest.entityCastleSoldierKing.name=The King
+entity.arrowquest.entityPirate.name=Pirate
+entity.arrowquest.entityPirateCaptain.name=Pirate Captain
+entity.arrowquest.entityOrc.name=Orc
+entity.arrowquest.entityOrcBoss.name=Orc Overlord
+entity.arrowquest.entityNetherOrc.name=Orc
+entity.arrowquest.entityElf.name=Elf
+entity.arrowquest.entityElfBoss.name=Elfen King
+entity.arrowquest.entityDwarf.name=Dwarf
+entity.arrowquest.entityDwarfBoss.name=Dwarf Commander
+entity.arrowquest.entityBlazeBoss.name=Supreme Emperor Blaze
+entity.arrowquest.entityFlyingStinger.name=Roaming Scorpion
+entity.arrowquest.entityHyperScorpion.name=Hyper Scorpion
+entity.arrowquest.entityPolice.name=Trueforce Soldier
+entity.arrowquest.entityPoliceBoss.name=Trueforce General
+entity.arrowquest.entityRobotSpider.name=Mechanical Spider
+entity.arrowquest.entityDoomGuardian.name=Nightmare Guardian
+entity.arrowquest.entityObsidianWarrior.name=Obsidian Warrior
+entity.arrowquest.entityFinalBoss.name=The Obsidian Corruption
+entity.arrowquest.entityFinalBossCore.name=Energy Core
+entity.arrowquest.entityHyperBlaze.name=Hyper Blaze
+entity.arrowquest.entityWizard.name=Wizard
+entity.arrowquest.entityWizardBoss.name=Elder Wizard
+entity.arrowquest.entityVampire.name=Vampire
+entity.arrowquest.entityVampireBoss.name=Vampire Lord
+entity.arrowquest.entityFurnaceMonster.name=Furnace Monster
+entity.arrowquest.entityPhantasm.name=Phantasm
+entity.arrowquest.entityBanishedSoul.name=Banished Soul
+
+# Key Bindings
+key.categories.arrowquest=ArrowQuest
+key.openLevelUpGUI=Open Level-Up Menu
+key.cycleWandSpell=Switch Active Spell
+key.openMagicBackpack=Open Magic Backpack
+key.openAQLogGUI=Open Adventure Log

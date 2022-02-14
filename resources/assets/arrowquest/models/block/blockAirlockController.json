@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_top",
+	"textures": {
+		"top": "arrowquest:blocks/blockAirlockController",
+		"side": "arrowquest:blocks/blockPoliceTeleporterSide"
+	}
+}
